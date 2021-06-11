@@ -4,7 +4,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class Sql 
+public class Sql1
 {
 	public static void main(String[] args) throws Exception
 	{
